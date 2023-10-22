@@ -17,7 +17,8 @@ I would recommend creating a new Xcode project instead of working off this exist
 You would paste this right below the part where it says "ContentView()".
 The new YOUR_PROJECT_NAME.swift file should look somewhat like this: 
 
-('' //  Created by You on [The Date].
+```
+//  Created by You on [The Date].
 //
 
 import SwiftUI
@@ -31,6 +32,7 @@ struct YOUR_PROJECT_NAME: App {
         }
     }
 }
-'')
+```
+
 
 I hope this helps you understand the structure and UI for an iCloud unlocking app in Swift!
